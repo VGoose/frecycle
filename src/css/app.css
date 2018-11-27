@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  margin-block-end: .1em;
+}
+h3 {
+  text-align: center;
+  margin-block-start: .1em;
+}
+body {
+  font-family: 'Old Standard TT', serif;
+  background-color: #ffffff
+}
+.app {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+.app-navbar li {
+  display: inline;
+  margin-right: 1em;
+}
+.app-navbar ul {
+  margin: 0;
+  padding: 0;
+}

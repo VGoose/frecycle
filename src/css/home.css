@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  text-align: center;
+
+  justify-content: center;
+}
+
+.home-header {
+
+}
+
+.home img {
+  display: block;
+  margin-top: 1em;
+  max-height: 50vw;
+  min-height: 500px;
+}
