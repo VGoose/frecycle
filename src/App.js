@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import Home from './components/home'
 import About from './components/about'
+import TheList from './components/the_list'
 
 import './css/app.css'
 
@@ -21,10 +22,14 @@ class App extends Component {
               <li>
                 <Link to="/about/">About</Link>
               </li>
+              <li>
+                <Link to="/thelist">The List</Link>
+              </li>
             </ul>
           </nav>
         <Route path="/" exact component={Home} />
         <Route path="/about/" component={About} />
+        <Route path="/thelist/" component={TheList} />
         </div>
       </Router>
     );
