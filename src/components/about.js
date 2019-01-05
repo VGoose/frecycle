@@ -9,11 +9,11 @@ class About extends Component {
     return (
       <div className="about">
         <p>
-          We are defined by our belief that the environmentally responsible lifestyle 
-          must be lived, and it is attractive.
+          We are defined by our belief that the it can be easy to live a environmentally responsible 
+          lifestyle. 
           <br /><br />
           Our goal is to empower consumers to make environmentally-conscious choices 
-          by providing quality, and responsibly-made products.  Through these small 
+          by providing quality, and responsibly-made tools and products.  Through these small 
           choices, we hope to create a movement that will redefine the everyday person’s 
           way of living into one that is more thoughtful, and sustainable.
         </p>

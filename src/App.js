@@ -13,7 +13,7 @@ class App extends Component {
       <Router>
         <div className="app">
           <h1>fucking recycle </h1>
-          <h3>new york</h3>
+          <h5>NEW YORK</h5>
           <nav className="app-navbar">
             <ul>
               <li>
